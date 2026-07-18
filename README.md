@@ -1,5 +1,7 @@
 # Human-in-the-Loop Data Analyst
 
+*Autonomous text-to-SQL agents are a liability in any real business setting: a misread question or ambiguous schema can silently return the wrong number, or execute an unintended write. This demonstrates how to keep a human in the loop as a protocol-level guarantee, not just an app-level convention, without sacrificing the speed of natural-language querying.*
+
 A plain-English question becomes a reviewable SQL query against a real
 dataset, and nothing executes until a human clicks approve.
 
