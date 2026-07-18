@@ -110,8 +110,7 @@ Python, DuckDB, FastMCP, OpenAI Responses API (`gpt-4o-mini`), Streamlit.
 
 ## Deploying
 
-- Streamlit app: Streamlit Community Cloud (free tier), same as the
-  other two weekend projects.
+- Streamlit app: Streamlit Community Cloud (free tier)
 - MCP server: needs a host with a stable public URL. Render or Fly.io
   free tier both work; the ngrok tunnel is for local dev only and
   expires with the session.
