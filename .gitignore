@@ -1,0 +1,14 @@
+# Secrets, never commit
+.env
+
+# Dataset (large, not needed for anyone reading the repo)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
